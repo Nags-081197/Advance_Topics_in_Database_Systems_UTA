@@ -6,5 +6,5 @@ Big Data Frameworks : Apache Hadoop, Spark, Pig, Hive
 
 This repo consists of all the big data Assignments/Projects from Fall 2020 semester. 
 
-Do consider having the documents as a referrence only else you might be penalized for act of plagiarism.
+Do consider having the documents as a reference only else you might be penalized for act of plagiarism.
 
